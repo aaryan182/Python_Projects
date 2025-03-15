@@ -1,0 +1,154 @@
+{
+    "questions": [
+        {
+            "question": "What is the output of print(2 ** 3)?",
+            "options": [
+                "5",
+                "6",
+                "8",
+                "9"
+            ],
+            "answer": "8"
+        },
+        {
+            "question": "Which of the following is used to define a function in Python?",
+            "options": [
+                "func",
+                "def",
+                "define",
+                "lambda"
+            ],
+            "answer": "def"
+        },
+        {
+            "question": "What data type is the result of 5 / 2 in Python?",
+            "options": [
+                "int",
+                "float",
+                "str",
+                "bool"
+            ],
+            "answer": "float"
+        },
+        {
+            "question": "Which keyword is used to create a loop in Python?",
+            "options": [
+                "for",
+                "loop",
+                "repeat",
+                "while"
+            ],
+            "answer": "for"
+        },
+        {
+            "question": "What will be the output of len([1, 2, 3, 4])?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "Error"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "How do you start a comment in Python?",
+            "options": [
+                "//",
+                "/* */",
+                "#",
+                "--"
+            ],
+            "answer": "#"
+        },
+        {
+            "question": "Which function is used to get user input in Python?",
+            "options": [
+                "get()",
+                "input()",
+                "read()",
+                "scan()"
+            ],
+            "answer": "input()"
+        },
+        {
+            "question": "Which of the following is a mutable data type in Python?",
+            "options": [
+                "tuple",
+                "list",
+                "string",
+                "int"
+            ],
+            "answer": "list"
+        },
+        {
+            "question": "What is the correct way to open a file in read mode in Python?",
+            "options": [
+                "open('file.txt', 'r')",
+                "open('file.txt', 'w')",
+                "open('file.txt', 'rb')",
+                "open('file.txt', 'rw')"
+            ],
+            "answer": "open('file.txt', 'r')"
+        },
+        {
+            "question": "Which library is used for data manipulation in Python?",
+            "options": [
+                "numpy",
+                "matplotlib",
+                "pandas",
+                "scipy"
+            ],
+            "answer": "pandas"
+        },
+        {
+            "question": "What does the 'range(5)' function return?",
+            "options": [
+                "A list of numbers from 1 to 5",
+                "A list of numbers from 0 to 5",
+                "A list of numbers from 0 to 4",
+                "An error"
+            ],
+            "answer": "A list of numbers from 0 to 4"
+        },
+        {
+            "question": "Which of the following statements is used to exit a loop in Python?",
+            "options": [
+                "continue",
+                "break",
+                "exit",
+                "return"
+            ],
+            "answer": "break"
+        },
+        {
+            "question": "Which of the following methods is used to remove an item from a list by value?",
+            "options": [
+                "del",
+                "pop()",
+                "remove()",
+                "discard()"
+            ],
+            "answer": "remove()"
+        },
+        {
+            "question": "Which of the following statements is true about Python?",
+            "options": [
+                "Python is a compiled language",
+                "Python is case-sensitive",
+                "Python does not support OOP",
+                "Python does not support exceptions"
+            ],
+            "answer": "Python is case-sensitive"
+        },
+        {
+            "question": "Which operator is used for floor division in Python?",
+            "options": [
+                "/",
+                "//",
+                "%",
+                "**"
+            ],
+            "answer": "//"
+        }
+    ]
+}
